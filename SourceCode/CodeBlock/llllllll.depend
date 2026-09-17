@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1420212242 source:d:\funcode\games\asdf\llllllll\sourcecode\icon.rc
+
+1719908002 source:d:\funcode\games\asdf\llllllll\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 d:\funcode\games\asdf\llllllll\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 d:\funcode\games\asdf\llllllll\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1719904291 source:d:\funcode\games\asdf\llllllll\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1420212242 source:e:\desktop\games\llllllll\sourcecode\icon.rc
+
+1719976411 source:e:\desktop\games\llllllll\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 e:\desktop\games\llllllll\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 e:\desktop\games\llllllll\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1719911698 source:e:\desktop\games\llllllll\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1420212242 source:e:\desktop\games\回家的诱惑\sourcecode\icon.rc
+
+1720145789 source:e:\desktop\games\回家的诱惑\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 e:\desktop\games\回家的诱惑\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 e:\desktop\games\回家的诱惑\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1720162773 source:e:\desktop\games\回家的诱惑\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+	"math.h"
+
+1420212242 source:e:\desktop\games\gai\cun1\sourcecode\icon.rc
+
+1720233210 source:e:\desktop\games\gai\cun1\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+	"math.h"
+
+1461256728 e:\desktop\games\gai\cun1\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 e:\desktop\games\gai\cun1\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1720172335 source:e:\desktop\games\gai\cun1\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1420212242 source:c:\users\zer031117\desktop\huijia\sourcecode\icon.rc
+
+1720251174 source:c:\users\zer031117\desktop\huijia\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\zer031117\desktop\huijia\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\zer031117\desktop\huijia\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1720269464 source:c:\users\zer031117\desktop\huijia\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+	"math.h"
+
+1420212242 source:c:\users\zer031117\desktop\回家的诱惑1\sourcecode\icon.rc
+
+1720251174 source:c:\users\zer031117\desktop\回家的诱惑1\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\zer031117\desktop\回家的诱惑1\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\zer031117\desktop\回家的诱惑1\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1420212242 source:c:\users\zer031117\desktop\万里归途\sourcecode\icon.rc
+
+1720251174 source:c:\users\zer031117\desktop\万里归途\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\zer031117\desktop\万里归途\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\zer031117\desktop\万里归途\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1724650806 source:c:\users\zer031117\desktop\万里归途\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+	"math.h"
+
+1420212242 source:e:\desktop\games\万里归途\sourcecode\icon.rc
+
+1720251174 source:e:\desktop\games\万里归途\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 e:\desktop\games\万里归途\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 e:\desktop\games\万里归途\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1723713581 source:e:\desktop\games\万里归途\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+	"math.h"
+
